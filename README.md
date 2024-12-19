@@ -9,6 +9,9 @@ This is a simple and user-friendly Calculator Extension for your browser. It all
 
 # Screenshots
 
+![Calculator Icon](calculatorImage.png)
+
+
 # Installation
 
 To install the extension:

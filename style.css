@@ -1,41 +1,32 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  
-.main {
-  width: 200px;
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  background-color: #f9f9f9;
-  position: relative;
+  #main {
+  padding: 20px;
+  background-color: red;
+    width: 180px;
+    align-items: center;
+    height: 260px;
+    position: relative;
 }
 
 #screen {
-  width: 100%;
+  width: 163.5px;
   height: 30px;
   margin-bottom: 10px;
-  text-align: center;
+  text-align: right;
   color: black;
 
 }
 
 #elements {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 5px;
-
+    line-height: 10px;
 }
 
 button {
-  height: 4vh;
-  width: 4vh;
-  font-size: 18px;
+  height: 40px;
+  width: 40px;
+  font-size: 20px;
   cursor: pointer;
 }
 
 #equalTo{
-    width: 17.4vh;
+    width: 172.4px;
 }

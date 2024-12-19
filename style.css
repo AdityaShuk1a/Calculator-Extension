@@ -1,6 +1,6 @@
   #main {
-  padding: 20px;
-  background-color: red;
+  padding: 20px;    
+  background-color: #9968d1;
     width: 180px;
     align-items: center;
     height: 260px;
@@ -8,25 +8,33 @@
 }
 
 #screen {
-  width: 163.5px;
-  height: 30px;
-  margin-bottom: 10px;
-  text-align: right;
-  color: black;
+    background-color: #fcebf3;
+    width: 168.5px;
+    height: 30px;
+    margin-bottom: 10px;
+    text-align: right;
+    color: black;
 
 }
 
 #elements {
     line-height: 10px;
 }
-
-button {
-  height: 40px;
-  width: 40px;
-  font-size: 20px;
-  cursor: pointer;
+/* #f4b3d3 */
+#elements button {
+    margin: 1px 1px;
+    border-radius: 50%;
+    background-color: #f6db5e;
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    cursor: pointer;
 }
 
 #equalTo{
-    width: 172.4px;
+    margin-top: 7px ;
+    height: 30px;
+    background-color: #233e8b;
+    width: 177.4px;
 }
+

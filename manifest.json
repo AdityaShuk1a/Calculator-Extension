@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Calculator Extension",
+    "version": "0.0.1",
+    "description": "A simple calculator for your browser.",
+    "action": {
+      "default_popup": "index.html"
+    }
+}

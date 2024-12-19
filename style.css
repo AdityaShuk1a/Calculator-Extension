@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+.main {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  position: relative;
+}
+
+#screen {
+  width: 100%;
+  height: 30px;
+  margin-bottom: 10px;
+  text-align: center;
+  color: black;
+
+}
+
+#elements {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+
+}
+
+button {
+  height: 4vh;
+  width: 4vh;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+#equalTo{
+    width: 17.4vh;
+}

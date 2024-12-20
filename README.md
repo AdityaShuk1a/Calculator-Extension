@@ -9,7 +9,7 @@ This is a simple and user-friendly Calculator Extension for your browser. It all
 
 # Screenshots
 
-![Calculator Icon](calculatorImage.png)
+![Calculator Icon](https://github.com/AdityaShuk1a/Calculator-Extension/blob/45b17f2dcaf79086125a437613f0f8153aea03c0/calculatorImage.png)
 
 
 # Installation

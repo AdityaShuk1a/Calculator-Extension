@@ -14,6 +14,7 @@
     margin-bottom: 10px;
     text-align: right;
     color: black;
+    font-size: 20px;
 
 }
 
@@ -36,5 +37,7 @@
     height: 30px;
     background-color: #233e8b;
     width: 177.4px;
+    font-size: 20px;
+    color: white;
 }
 

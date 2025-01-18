@@ -4,6 +4,7 @@
 } 
 *{
     font-family: 'CustomFont', sans-serif; 
+    font-weight: bold;
 }
 #main {
   padding: 20px;    

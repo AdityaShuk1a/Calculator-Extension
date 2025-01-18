@@ -1,4 +1,11 @@
-  #main {
+@font-face { 
+    font-family: 'CustomFont'; 
+    src: url('fonts/Gilroy-Light.otf') format('opentype'); 
+} 
+*{
+    font-family: 'CustomFont', sans-serif; 
+}
+#main {
   padding: 20px;    
   background-color: #9968d1;
     width: 180px;
